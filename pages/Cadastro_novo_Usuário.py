@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 import json
 
+
 url = "https://aps5-backend.onrender.com/"
 def novo_usuario():
     st.header('Novo Usuário', divider='rainbow')
