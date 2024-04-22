@@ -124,7 +124,7 @@ Faça o deploy do seu web service no Heroku e assegure que ele esteja se comunic
 ## Etapa 5: Interface do Usuário
 
 Crie um repositõrio separado para o desenvolvimento do Streamlit, deixe-o público e adicione o link aqui!
-Link do repositório da interface:
-Link de deploy do streamlit:
+Link do repositório da interface: https://github.com/isavrodrigues/aps5_front
+Link de deploy do streamlit: https://aps5-front.streamlit.app/
 
 Desenvolva uma interface para o usuário para que ele consiga gerenciar os recursos do back-end. Desenvolvimento livre!
